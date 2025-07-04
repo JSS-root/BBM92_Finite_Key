@@ -1,4 +1,4 @@
-# BBM92_Finite_Key
+# BBM92 Finite Key
 
 Code base for the BBM92 finite key analysis protocol. This project numerically implements a finite-key solver for the BBM92 protocols.
 
@@ -13,9 +13,9 @@ Translation of code to Python pending and under development.
 ```
 BBM92_Finite_Key/
 ├── BBM92_BruteForce         # Entry point: run optimiser using Brute force
-├── BBM92_Opt                 # Entry point: run optimiser using direct optimisation
-├── README.md                    # Documentation
-└── LICENSE                           # MIT License
+├── BBM92_Opt                # Entry point: run optimiser using direct optimisation
+├── README.md                # Documentation
+└── LICENSE                  # MIT License
 ```
 
 
