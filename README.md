@@ -10,4 +10,4 @@ Translation of code to Python pending and under development.
 
 ## Citation and reference
 
-Under development.
+Citation and reference under development. Acknowledge author. 
