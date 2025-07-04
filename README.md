@@ -8,6 +8,17 @@ Translation of code to Python pending and under development.
 
 ## Author: Jasminder S Sidhu
 
+## Directory Structure
+
+```
+BBM92_Finite_Key/
+├── BBM92_BruteForce         # Entry point: run optimiser using Brute force
+├── BBM92_Opt                 # Entry point: run optimiser using direct optimisation
+├── README.md                    # Documentation
+└── LICENSE                           # MIT License
+```
+
+
 ## Citation and reference
 
 Citation and reference under development. Acknowledge author. 
