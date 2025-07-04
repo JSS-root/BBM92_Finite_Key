@@ -12,10 +12,11 @@ Translation of code to Python pending and under development.
 
 ```
 BBM92_Finite_Key/
-├── BBM92_BruteForce         # Entry point: run optimiser using Brute force
-├── BBM92_Opt                # Entry point: run optimiser using direct optimisation
-├── README.md                # Documentation
-└── LICENSE                  # MIT License
+├── README.md                   # Documentation
+├── LICENSE                     # MIT License
+└── Solvers/
+    ├── BBM92_BruteForce        # optimiser using Brute force
+    ├── BBM92_Opt               # optimiser using direct optimisation
 ```
 
 
