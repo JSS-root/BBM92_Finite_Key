@@ -47,7 +47,7 @@ Work is underway to translate code to Python.
 If you use this software in your research please cite as follows:
 
 
-<pre>  
+  
 ```
 @software{Side_BBM92_2025,
 author = {Sidhu, Jasminder Singh},
@@ -56,6 +56,6 @@ url = {https://github.com/JSS-root/BBM92_Finite_Key/tree/main},
 year = {2025}
 }
 ```
-</pre>
+
 
 Associated documentation and application paper under development. 
