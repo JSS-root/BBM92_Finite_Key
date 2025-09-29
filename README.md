@@ -60,16 +60,17 @@ In Terminal (macOS), Bash (Linux/Unix), or Cygwin/Command Prompt (Windows), run:
 Work is underway to translate code to Python.
 
 ```markdown
-## 🗺️ Roadmap
 
-| Feature                                      | Status       |
-|----------------------------------------------|--------------|
-| Brute-force optimiser                        | ✅ Implemented |
-| Direct optimisation                          | ✅ Implemented |
-| Parallelised SatQKD solver                   | ✅ Implemented |
-| Python translation                           | 🚧 In progress |
-| Extended documentation & application paper   | 🚧 In progress |
-| Unit tests & validation suite                | 🔜 Planned |
+| **Feature**                                  | Status      |
+|----------------------------------------------|-------------|
+| Brute-force optimiser                        | Implemented |
+| Direct optimisation                          | Implemented |
+| Parallelised SatQKD solver                   | Implemented |
+| Documentation & application paper            | In progress |
+| Python translation                           | In progress |
+
+```
+
 
 
 ## Citation and attribution
