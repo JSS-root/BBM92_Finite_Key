@@ -8,7 +8,7 @@ Code base for the BBM92 finite key analysis protocol. This project numerically i
 Maximisation is performed using both direct optimisation and brute force approaches to enable user suitable tradeoffs in runtime.
 
 
-## Author: Jasminder S Sidhu
+## Author: [Jasminder S Sidhu](mailto:jsmdrsidhu%40gmail.com)
 
 ## Directory Structure
 
@@ -27,7 +27,7 @@ BBM92_Finite_Key/
 
 The BBM92_Bruteforce_Parallelised_SatQKD file features the following updates:
     1. Parallelised version for optimisation parameters. Implements ThreadMapping. Block optimisation left sequential. 
-    2. Key rate optimiser applied to SatQKD. Example loss file (clickfile_OGSsep_500km_phi_0_xi_0.csv) provided.
+    2. Key rate optimiser applied to SatQKD. Example loss file (`clickfile_OGSsep_500km_phi_0_xi_0.csv`) provided.
     3. Block optimisation implemented for a satellite overpass to maximise keys.
     4. Utilities: Input/output directories, runtime information, and line comments provided for easier edits. 
 
@@ -57,11 +57,8 @@ In Terminal (macOS), Bash (Linux/Unix), or Cygwin/Command Prompt (Windows), run:
     
 ## Roadmap and To-dos
 
-Work is underway to translate code to Python.
 
-```
-
-| **Feature**                                  | Status      |
+| Feature                                      | Status      |
 |----------------------------------------------|-------------|
 | Brute-force optimiser                        | Implemented |
 | Direct optimisation                          | Implemented |
@@ -69,7 +66,6 @@ Work is underway to translate code to Python.
 | Documentation & application paper            | In progress |
 | Python translation                           | In progress |
 
-```
 
 
 
