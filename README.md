@@ -42,25 +42,34 @@ Modularity: Code is now modular:
 
 ### Requirements
 
-- Local **Mathematica installation** (backwards compatibility maximised for versions `>= 5.0`).  
-- To install the Mathematica version of the repository:
-  1. Clone the repository.  
-  ```
-  >> git clone https://github.com/JSS-root/BBM92_Finite_Key.git
-  >> cd BBM92_Finite_Key/Solvers
-  ```
+Local Mathematica installation (backwards compatibility maximised for versions `>= 5.0`). To install the Mathematica version of the repository:
 
-  2. Navigate to the root folder.  
-  3. Open and run the desired Mathematica file (`.nb` or `.m`).  
-
-### Clone Repository
+- Clone the repository. 
+- Navigate to the root folder.  
+- Open and run the desired Mathematica file (`.nb` or `.m`).  
 
 In Terminal (macOS), Bash (Linux/Unix), or Cygwin/Command Prompt (Windows), run:
+```
+>> git clone https://github.com/JSS-root/BBM92_Finite_Key.git
+>> cd BBM92_Finite_Key/Solvers
+```
 
     
-## To-dos
+## Roadmap and To-dos
 
 Work is underway to translate code to Python.
+
+```markdown
+## 🗺️ Roadmap
+
+| Feature                                      | Status       |
+|----------------------------------------------|--------------|
+| Brute-force optimiser                        | ✅ Implemented |
+| Direct optimisation                          | ✅ Implemented |
+| Parallelised SatQKD solver                   | ✅ Implemented |
+| Python translation                           | 🚧 In progress |
+| Extended documentation & application paper   | 🚧 In progress |
+| Unit tests & validation suite                | 🔜 Planned |
 
 
 ## Citation and attribution
