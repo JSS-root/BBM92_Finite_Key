@@ -76,7 +76,7 @@ If you use this software in your research please cite as follows:
 
   
 ```
-@software{Side_BBM92_2025,
+@software{Sidhu_BBM92_2025,
 author = {Sidhu, Jasminder Singh},
 title = {{BBM92: Optimised finite key analyser for satellite links}},
 url = {https://github.com/JSS-root/BBM92_Finite_Key/tree/main},
