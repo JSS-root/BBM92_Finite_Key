@@ -45,16 +45,17 @@ Modularity: Code is now modular:
 - Local **Mathematica installation** (backwards compatibility maximised for versions `>= 5.0`).  
 - To install the Mathematica version of the repository:
   1. Clone the repository.  
+  ```
+  >> git clone https://github.com/JSS-root/BBM92_Finite_Key.git
+  >> cd BBM92_Finite_Key/Solvers
+  ```
+
   2. Navigate to the root folder.  
   3. Open and run the desired Mathematica file (`.nb` or `.m`).  
 
 ### Clone Repository
 
-In **Terminal (macOS)**, **Bash (Linux/Unix)**, or **Cygwin/Command Prompt (Windows)**, run:
-
-```bash
-git clone https://github.com/JSS-root/BBM92_Finite_Key.git
-cd BBM92_Finite_Key/Solvers
+In Terminal (macOS), Bash (Linux/Unix), or Cygwin/Command Prompt (Windows), run:
 
     
 ## To-dos
