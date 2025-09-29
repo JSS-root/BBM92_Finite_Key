@@ -59,7 +59,7 @@ In Terminal (macOS), Bash (Linux/Unix), or Cygwin/Command Prompt (Windows), run:
 
 Work is underway to translate code to Python.
 
-```markdown
+```
 
 | **Feature**                                  | Status      |
 |----------------------------------------------|-------------|
@@ -88,5 +88,3 @@ year = {2025}
 }
 ```
 
-
-Associated documentation and application paper under development. 
