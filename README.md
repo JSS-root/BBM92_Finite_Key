@@ -49,9 +49,10 @@ Local Mathematica installation (backwards compatibility maximised for versions `
 - Open and run the desired Mathematica file (`.nb` or `.m`).  
 
 In Terminal (macOS), Bash (Linux/Unix), or Cygwin/Command Prompt (Windows), run:
+
 ```
->> git clone https://github.com/JSS-root/BBM92_Finite_Key.git
->> cd BBM92_Finite_Key/Solvers
+git clone https://github.com/JSS-root/BBM92_Finite_Key.git
+cd BBM92_Finite_Key/Solvers
 ```
 
     
